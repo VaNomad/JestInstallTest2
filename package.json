@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/VaNomad/JestInstallTest2/issues"
   },
-  "homepage": "https://github.com/VaNomad/JestInstallTest2#readme"
+  "homepage": "https://github.com/VaNomad/JestInstallTest2#readme",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
 }
